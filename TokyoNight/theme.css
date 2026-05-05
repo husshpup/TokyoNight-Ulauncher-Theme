@@ -33,7 +33,7 @@
     background-color: @window_bg;
     border: 2px solid @window_border_color;
     border-radius: 30px;
-    margin: 0 -20px;
+    margin: 0 0px;
 }
 
 .input {
